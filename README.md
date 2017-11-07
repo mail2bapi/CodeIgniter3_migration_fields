@@ -9,7 +9,7 @@ Create a migration file in **application/migrations/** directory as instructed i
 
 You can follow the example to add your fields to table easily.
 ```php
-class Migration_Add_patient extends CI_Migration
+class Migration_Add_person extends CI_Migration
 {
     public function up()
     {
