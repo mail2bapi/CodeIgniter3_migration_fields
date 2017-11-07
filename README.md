@@ -1,13 +1,10 @@
 # CodeIgniter3_migration_fields
----
 Expanding CodeIgniter 3 migration feature. Adding fields made easy to migration file. At present it only support MYSQL database.
 
 ## Installation
----
 Download and drag the Migrationfields.php file into your **application/libraries** directory.
 
 ## How to use it
----
 Create a migration file in **application/migrations/** directory as instructed in CI 3 [documentation](https://www.codeigniter.com/user_guide/libraries/migration.html).
 
 You can follow the example to add your fields to table easily.
@@ -36,7 +33,6 @@ class Migration_Add_patient extends CI_Migration
 ```
 
 ## Available methods
----
 
 ### migrate
 Execute the migration and create table and fields
