@@ -1,3 +1,6 @@
+
+[This project has been updated CodeIgnitor3-Easy_Migration](https://github.com/askbapi/CodeIgnitor3-Easy_Migration)
+
 # CodeIgniter3_migration_fields
 Expanding CodeIgniter 3 migration feature. Adding fields made easy to migration file. At present it only support MYSQL database.
 
